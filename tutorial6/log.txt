@@ -1,0 +1,7 @@
+Path: /weatherforecast
+Query String: 
+Method: GET
+Body Parameters: {
+"Studies": "Java",
+"Semester": 1
+}
